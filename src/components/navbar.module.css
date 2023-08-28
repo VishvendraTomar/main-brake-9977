@@ -1,0 +1,25 @@
+.navbar {
+    background-color: #262626;
+    color: rgb(199, 162, 162);
+}
+  
+.navLinks a {
+    color: rgb(245, 235, 235);
+    text-decoration: none;
+    margin-right: 1rem;
+}
+  
+.userWelcome {
+    color: rgb(241, 236, 236);
+    margin-right: 1rem;
+}
+  
+.logoutButton {
+    background-color: rgb(244, 241, 241);
+    color: cyan;
+}
+  
+.loginLinks a {
+    color: rgb(249, 243, 243);
+    text-decoration: none;
+}

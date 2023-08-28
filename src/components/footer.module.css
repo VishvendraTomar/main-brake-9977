@@ -1,0 +1,29 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f1f1f5;
+    padding: 1rem;
+    /* margin-bottom: 300px; */
+    /* border-top: 1px solid #ddd; */
+}
+  
+.footerLink {
+    color: #f8f8f8;
+    margin-right: 1.5rem;
+    text-decoration: none;
+}
+
+.footerLink:hover {
+    color: #00f7ff;
+}
+  
+.iconLink {
+    color: #ffffff;
+    margin-right: 1rem;
+}
+  
+.iconLink:hover {
+    color: #00f7ff;
+}
+  

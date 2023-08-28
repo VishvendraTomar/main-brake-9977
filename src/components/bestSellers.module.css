@@ -1,0 +1,46 @@
+.bestSellersSection {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  
+  .bestSellersHeading {
+    color: rgb(0, 95, 95);
+    margin-bottom: 1rem;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
+  .productCard {
+    border: 1px solid #989a9a;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .productCard:hover {
+    transform: translateY(-4px);
+  }
+  
+  .productImage {
+    height: 240px;
+    object-fit: cover;
+  }
+  
+  .productInfo {
+    padding: 1rem;
+  }
+  
+  .productName {
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+  
+  .productPrice {
+    color: gray;
+    margin-bottom: 0.5rem;
+  }
+  
+  .productRating {
+    color: gray;
+  }
+  

@@ -1,0 +1,56 @@
+/* signup.module.css */
+
+.signup-container {
+    width: 40%; /* Container takes 40% of the width */
+    padding: 20px;
+    margin: 50px auto; /* Center horizontally and give some space from top */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+  }
+  
+  .signup-heading {
+    color: rgb(0, 170, 170);
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .signup-input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .signup-button {
+    background-color: cyan;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto; /* Center the signup button horizontally */
+  }
+  
+  .signup-button:hover {
+    background-color: #59b8b8;
+  }
+  
+  .signup-result {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #333;
+    text-align: center;
+  }
+  
+  .signup-success {
+    color: green;
+  }
+  
+  .signup-fail {
+    color: red;
+  }
+  
