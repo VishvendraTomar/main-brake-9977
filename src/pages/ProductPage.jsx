@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Box, Container, Flex } from '@chakra-ui/react';
 import { useNavigate } from 'react-router-dom';
-import FiltersAndSort from '../components/FiltersAndSort';
 import ProductList from '../components/ProductList';
 import axios from 'axios';
 
